@@ -1,4 +1,4 @@
-/* input[type=text],
+input[type=text],
 select,
 textarea {
     width: 100%;
@@ -63,4 +63,4 @@ input[type=submit]:hover {
 
 .container {
     margin-top: 30px;
-} */
+}
